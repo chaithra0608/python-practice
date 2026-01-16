@@ -1,1 +1,2 @@
-# python-practice
+- Day 1: Basics, calculators, control flow
+- Day 2: Magic 8 Ball, Sorting Hat, logical operators
