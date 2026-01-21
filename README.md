@@ -2,3 +2,4 @@
 - Day 2: Magic 8 Ball, Sorting Hat, logical operators
 - Day 3: Lists and loops
 - Day 4: Functions
+- Day 5: Classes and Objeects
