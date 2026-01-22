@@ -42,3 +42,15 @@ bulbasaur = Pokemon(
     "There is a plant seed on its back right from the day this Pokémon is born.",
     True
 )
+pikachu.speak()
+pikachu.display_details()
+
+print()
+
+charmander.speak()
+charmander.display_details()
+
+print()
+
+bulbasaur.display_details()
+
