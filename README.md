@@ -4,3 +4,4 @@
 - Day 4: Functions
 - Day 5: Classes and Objects
 - Day 6: Modules
+- Day 7: Data Structures in python
